@@ -6,6 +6,10 @@
     ```shell
     sudo apt install gcc g++ python3 build-essential nasm
     ```
+- Установка прав на выполнение run.sh:
+    ```shell
+    chmod +x run.sh
+    ```
 - Запуск программы (нужно будет выбрать язык):
     ```shell
     source ./run.sh
